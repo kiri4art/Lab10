@@ -26,7 +26,7 @@
   * Выводим описание фигуры и значения сторон (высоты, наименьшего основания и наибольшего основания)
 10. Конец
 ### Блок-схема ###
-![](https://github.com/kiri4art/Lab10/blob/main/lab10alga.png)
+![](https://github.com/kiri4art/Lab10/blob/main/lab10algb.png)
 ## 2. Реализация программы ##
 ```
 #define _CRT_SECURE_NO_DEPRECATE
